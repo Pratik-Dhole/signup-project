@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    width: 1728px;
+    height: 1117px;
+   
+.input{
+    width: 1177px;
+    height: 46.01px;
+    background-color: black;
+    border:none;
+    border-bottom: 1px solid white;
+    
+}
+::placeholder{
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29.05px;
+    text-align: left;
+    
+
+}
+.heading{
+    color:white;
+    font-size: 64px;
+    font-weight: 400;
+}
+.radio_buttons{
+    display: flex;
+}
+.radio_1{
+    margin-right: 100px;
+}
+#Signup{
+    width:226px ;
+    height: 58px;
+    background-color: white;
+    font-size: 24px;
+    line-height: 29.05px;
+}
+.container{
+    width: 1181px;
+    height: 712px;
+    margin-top: 154px;
+    margin-left: 198px;
+    border: 1px;
+
+}
+
+  
+    
